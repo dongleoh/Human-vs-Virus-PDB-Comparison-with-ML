@@ -101,7 +101,42 @@
 1. 머신러닝_MACHINE_LEARNING_PROJECT_-_PDF_(Oh_Dong_Geun_w_Lee_Soo_Haeng).pdf
    > 탐구 과정이 정리되어있는 보고서
 
+2. 머신러닝_MACHINE_LEARNING_PROJECT.ppt
+   > 프로젝트 구상 발표를 위한 ppt 파일
+   > 업로드 용량 한계로 인해 아래에 이미지 형태로 업로드
+
 ---
+
+
+![슬라이드1.JPG](attachment:0bb6ca03-bea1-415c-8ca6-3b69928c2bfb:슬라이드1.jpg)
+
+![슬라이드3.JPG](attachment:e3681043-c608-4a3f-8137-1d8d5e4a580d:슬라이드3.jpg)
+
+![슬라이드4.JPG](attachment:b4f98c29-549b-4c18-9703-5ecc62cd89d0:슬라이드4.jpg)
+
+![슬라이드5.JPG](attachment:2a6817cd-2787-426f-9482-037209ace5df:슬라이드5.jpg)
+
+![슬라이드6.JPG](attachment:6c180820-12cc-4f97-aec4-72c846e40e46:슬라이드6.jpg)
+
+![슬라이드7.JPG](attachment:41b01863-df5a-456a-ae26-3111298c638c:슬라이드7.jpg)
+
+![슬라이드8.JPG](attachment:f922af69-7fcb-461b-a8db-d9102d8e1acb:슬라이드8.jpg)
+
+![슬라이드9.JPG](attachment:43025abc-312f-4cd0-b8f2-d464eb0ab400:슬라이드9.jpg)
+
+![슬라이드10.JPG](attachment:59495c75-9be3-46bb-9366-676ad3492af7:슬라이드10.jpg)
+
+![슬라이드11.JPG](attachment:7839151a-44fa-464c-b5ec-eaa1c6fee53e:슬라이드11.jpg)
+
+![슬라이드12.JPG](attachment:0741f5b3-2003-4f0a-8301-4676551d7979:슬라이드12.jpg)
+
+![슬라이드13.JPG](attachment:ba909131-427c-4f31-a853-12e98ba3ab43:슬라이드13.jpg)
+
+![슬라이드14.JPG](attachment:81235476-2d28-4317-84ef-85f3ac9dfa64:슬라이드14.jpg)
+
+![슬라이드15.JPG](attachment:518a0bb1-6942-4bd8-9a3d-a311f50fd1f1:슬라이드15.jpg)
+
+
 
 > ⓒ 2025 | Oh DongGeun & Lee SooHaeng | 바이러스 vs 인간 단백질 분류 머신러닝 프로젝트
 
