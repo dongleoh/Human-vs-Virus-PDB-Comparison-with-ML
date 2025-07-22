@@ -96,38 +96,10 @@
 
 ---
 
-## 🔭 향후 연구 방향
+## 파일 내용
 
-### 1. Grid Parsing 기법
-
-* 단백질 구조를 3D 격자로 나눈 후, 격자 내 물리·화학적 속성을 수치화하여 벡터화
-
-### 2. 딥러닝 모델 적용
-
-* **3D CNN**: 구조 기반 피처 학습
-* **RNN/Transformer**: 서열 기반 시계열적 특징 학습
-* 복잡한 비선형 패턴까지 학습 가능하여 기존 모델 대비 예측 정밀도 향상 기대
-
----
-
-## 📂 프로젝트 구조 예시
-
-```
-📦 protein-ml-classification
-├── README.md
-├── /data
-│   ├── human_pdb/
-│   └── virus_pdb/
-├── /notebooks
-│   └── feature_engineering.ipynb
-├── /models
-│   └── svm_best.pkl
-├── /scripts
-│   ├── preprocess.py
-│   └── model_training.py
-└── /results
-    └── classification_metrics.csv
-```
+1. 머신러닝_MACHINE_LEARNING_PROJECT_-_PDF_(Oh_Dong_Geun_w_Lee_Soo_Haeng).pdf
+   > 탐구 과정이 정리되어있는 보고서
 
 ---
 
